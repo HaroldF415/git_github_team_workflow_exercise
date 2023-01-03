@@ -130,10 +130,10 @@ This is just a simple element
     <input type="number" name="temp" />
 
     <label for="temp_c">To Celcius</label>
-    <input type="radio" name="temp_c" id="to-c" value="c" />
+    <input type="radio" name="temp_to_convert" id="to-c" value="c" />
 
     <label for="temp_f">To Fahrenheit</label>
-    <input type="radio" name="temp_f" id="to-f" value="f" />
+    <input type="radio" name="temp_to_convert" id="to-f" value="f" />
 
     <input type="submit" value="Submit" />
   </form>
@@ -203,10 +203,10 @@ This is just a simple element
         <input type="number" name="temp" />
 
         <label for="temp_c">To Celcius</label>
-        <input type="radio" name="temp_c" id="to-c" value="c" />
+        <input type="radio" name="temp_to_convert" id="to-c" value="c" />
 
         <label for="temp_f">To Fahrenheit</label>
-        <input type="radio" name="temp_f" id="to-f" value="f" />
+        <input type="radio" name="temp_to_convert" id="to-f" value="f" />
 
         <input type="submit" value="Submit" />
       </form>
