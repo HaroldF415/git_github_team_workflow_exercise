@@ -8,6 +8,7 @@ There will be a small amount of participants to keep this exercise manageable.
 Participants: ( A to Z )
 
 - Harold Fachin
+- Nina Javier
 
 This repo will contain one text file. With 10 questions. Each member will tackle a questions while keeping communications open on slack to see which participant tackles what questions. This I think will mimic how the workflow for building an app will go. 
 
